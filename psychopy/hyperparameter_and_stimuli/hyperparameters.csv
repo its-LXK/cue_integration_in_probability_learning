@@ -1,0 +1,5 @@
+id,name,Variable,observed,accuracy,labels,coef,intercept,sigma
+1,Regenbogen,R,True,0.65,"['unsichtbar', 'leuchtend']",0.381,-2.2,0.7
+2,Temperatur,T,True,0.75,"['kühl', 'warm']",1.145,-0.4,1.2
+3,Helligkeit,H,True,0.85,"['dunkel', 'hell']",1.466,-0.1,1.0
+4,Einhornsichtung,E,False,1.0,"['kein Einhorn (0%)', 'sicher Einhorn (100%)']",1.0,0.0,0.0

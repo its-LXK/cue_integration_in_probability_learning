@@ -1,0 +1,16 @@
+arviz
+graphviz
+ipykernel
+jupyter
+
+matplotlib
+numpy
+pandas
+
+#psychopy
+
+pydot
+pymc3
+scipy
+seaborn
+
